@@ -1,0 +1,25 @@
+<svg width="15" height="16" viewBox="0 0 15 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="15" height="16" fill="#E5E5E5"/>
+<g id="Landing Page" clip-path="url(#clip0_0_1)">
+<rect width="1500" height="4975" transform="translate(-497 -1608)" fill="white"/>
+<g id="BEST SELLERS">
+<g id="Items grid">
+<g id="item">
+<g id="rate">
+<path id="star copy 4" d="M14.7428 6.15234L10.4913 9.67432L11.742 15.3983L7.6111 11.9403L3.21407 15.2144L4.91286 9.55432L0.946777 5.85437L6.12724 5.81433L8.0739 0.253418L9.57709 5.8894L14.7428 6.15234Z" fill="#FFC600"/>
+</g>
+</g>
+<g id="item_2">
+<g id="Rectangle 1 copy 5">
+<path id="Vector" d="M217.5 -320.327H-75.4995C-76.8802 -320.327 -77.9995 -319.208 -77.9995 -317.827V62.173C-77.9995 63.5537 -76.8802 64.673 -75.4995 64.673H217.5C218.881 64.673 220 63.5537 220 62.173V-317.827C220 -319.208 218.881 -320.327 217.5 -320.327Z" stroke="#F6F7F8" stroke-width="3" stroke-linejoin="round"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="1500" height="4975" fill="white" transform="translate(-497 -1608)"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./style.css" />
+    <title>Cart</title>
+  </head>
+
+  <body>
+    <header>
+      <div class="container">
+        <div class="header__top-box">
+          <div class="header__left-box">
+            <form>
+              <select class="header__lan">
+                <option class="header__lan">EN</option>
+              </select>
+              <select class="header__lan">
+                <option class="header__lan">USD</option>
+              </select>
+            </form>
+          </div>
+          <ul class="header__top_list">
+            <li class="header__top-item">
+              <a class="header__top-link" href="#">My profile</a>
+            </li>
+            <li class="header__top-item item2">
+              <a class="header__top-link" href="./cart.html">Items</a>
+            </li>
+            <li class="header__top-item item3">
+              <span class="header__top-price">$0.00</span>
+            </li>
+          </ul>
+        </div>
+        <div class="header__bottom">
+          <a href="#">
+            <img src="./img/logo.svg" alt="logo-img" />
+          </a>
+          <ul class="header__bottom-list"></ul>
+        </div>
+      </div>
+    </header>
+    <main>
+      <section>
+        <div class="container">
+          <a class="home-page" href="./index.html">Back to</a>
+          <ul class="about__list">
+            <li class="about__item1">
+              <h3 class="cart__title">PRODUCT</h3>
+            </li>
+            <ul class="cart__subtitle">
+              <li class="about__item">
+                <h3 class="cart__title">PRICE</h3>
+              </li>
+              <li class="about__item">
+                <h3 class="cart__title">QTY</h3>
+              </li>
+              <li class="about__item">
+                <h3 class="cart__title">UNIT PRICE</h3>
+              </li>
+            </ul>
+          </ul>
+          <ul class="cart__list"></ul>
+          <h3>Total: $<span class="total-price">0</span></h3>
+        </div>
+      </section>
+    </main>
+    <script src="./cart.js"></script>
+  </body>
+</html>
